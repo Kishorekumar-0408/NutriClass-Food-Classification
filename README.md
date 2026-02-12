@@ -77,6 +77,9 @@ It ensures strict food classification based on user-defined nutritional requirem
 - Matplotlib, Seaborn
 
 ---
+## 📊 Model Performance Dashboard
+
+![Dashboard](results/dashboard.png)
 
 ## 📂 Project Structure
 
